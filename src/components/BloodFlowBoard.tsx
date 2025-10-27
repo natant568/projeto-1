@@ -243,9 +243,9 @@ export default function BloodFlowBoard() {
               </ul>
 
               <h3>Anotações para uso acadêmico</h3>
-              <p>Este protótipo foi pensado para fins pedagógicos e pode ser integrado ao seu trabalho sobre biomecânica do ato de morder/embriologia/AVC como um exercício de analogia: muros = coágulos/oclusões, excesso de intervenção = risco hemorrágico, travessia bem-sucedida = fluxo preservado.</p>
+              <p>Este protótipo foi pensado para fins pedagógicos </p>
 
-              <p className="text-xs text-gray-600">(Este é um protótipo funcional — se quiser, eu adapto para exportar como imagem estática ou PDF, ou faço versão com regras formatadas em ABNT para o seu trabalho.)</p>
+              <p className="text-xs text-gray-600"></p>
             </div>
 
           </div>
